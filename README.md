@@ -7,7 +7,8 @@ Learning and experimenting with Docker containers
 - Enable virtualization
   > AMD: SVM Mode
 - Update Windows to latest build
-- Install Linux Kernal subsystem
+- Install/Update the WSL 2 Linux kernal
+  > https://docs.microsoft.com/en-us/windows/wsl/wsl2-kernel
 - Install Docker
 - Follow Docker setup steps from docs
 - If the tutorial was followed, navigate to `http://localhost/tutorial/` for getting started docs
